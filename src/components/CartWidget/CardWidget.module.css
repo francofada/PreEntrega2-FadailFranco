@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=JetBrains+Mono&family=Montserrat:wght@500&display=swap');
+
+
+.carro{
+    display: flex;
+    width: 75px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    background-color: #f9b17a;
+}
+
+.carro h3{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+}
